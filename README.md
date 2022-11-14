@@ -1,5 +1,5 @@
 # Relvise
-[study project](olgatenison.github.io/relvise/)
+[study project](https://olgatenison.github.io/relvise/)
 ______________________________________________________________
 ## Description
 
