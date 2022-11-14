@@ -10,7 +10,7 @@ The goal was to use the most simple layout solutions.
 So it was used such technologies as flex and BEM. 
 
 ______________________________________________________________
-###The project consists of the following blocks:
+The project consists of the following blocks:
 * Header
 * Main-block Services
 * Advantages
