@@ -768,7 +768,7 @@ body {
 .subscribe__button:active {
   background: var(--darck-green-color);
 }
-.img-block__image {
+.page__image {
   min-height: 450px;
 }
 
@@ -793,7 +793,7 @@ body {
   .subscribe__input {
     padding: 0px 15px;
   }
-  .img-block__image {
+  .page__image {
     min-height: 250px;
   }
 }
